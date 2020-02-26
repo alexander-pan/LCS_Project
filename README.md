@@ -4,7 +4,7 @@ My goal is to leverage LCS data to solve potential issues within the competition
 ## Introduction
 Watching the Riot Games' LCS and wondering what the Esports organizations do for analysis and I ask myself, "What can I develop and create that can help an team do better before and after a match?" 
 
-Analysts can analyze a match and determine optimal strategies based on the match in question. I personally feel this reactive methodology for team support is required but is not everything. Data Science is a fairly new field (< 3 years), especially in the realm of esports. Due to this, I wanted to work on a project as my contribution and possible application to any eSports organization that sees this and wishes to speak with me about possible employment. 
+Analysts can analyze a match and determine optimal strategies based on the match in question. I personally feel this reactive methodology for team support is required but is not everything. Data Science is a fairly new field (< 3 years), especially in the realm of esports.
 
 ## Problem
 Every team has a top, jungler, mid, bot, and support position. In order to create the optimal champion picks to compete against the opposing organization picks is based on statistics and inuition. My question is can I use the data of previous matches to predict ban and picks in the correct order?
